@@ -1,6 +1,6 @@
 # 🎓 Final fundamentos de programación
 
-Resolución de un exámen final de la materia Fundamentos de Programación de la carrera Técnicatura Universitaria en Desarrollo de Aplicaciones Web en la 
+Resolución de un examen final de la materia Fundamentos de Programación de la carrera Técnicatura Universitaria en Desarrollo de Aplicaciones Web en la 
 Universidad Provincial del Sudoeste (UPSO) 
 
 ## 📚 ¿De qué se trata este proyecto?
@@ -9,7 +9,7 @@ Es una aplicación diseñada para poder comprar entradas para el mundial Qatar 2
 y luego poder acceder a las entradas. Cuando el usuario compra una entrada, ésta transacción crea una registro que luego quien inicie sesión puede ver
 en un apartado en su perfil. Todo esto (usuario, contraseña, tickets y compras) son almacenados en una base de datos.
 
-* El proyecto es un exámen final, se llevó a cabo en menos de un día. Se priorizó funcionalidad.
+* El proyecto es un examen final, se llevó a cabo en menos de un día. Se priorizó funcionalidad.
 
 ## 🎨 Para este proyecto se utilizó
 
