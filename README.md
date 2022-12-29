@@ -21,9 +21,9 @@ en un apartado en su perfil. Todo esto (usuario, contraseña, tickets y compras)
 
 Para poder correr este proyecto se necesita correr un servidor apache y MySQL con xampp o wamp.
 
-[![Descargar Xampp](https://img.shields.io/badge/-Ver%20Online-red?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.apachefriends.org/es/download.html)
+[![Descargar Xampp](https://img.shields.io/badge/-Descargar%20Xampp-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.apachefriends.org/es/download.html)
 
-[![Descargar Wamp](https://img.shields.io/badge/-Ver%20Online-red?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.wampserver.com/en/)
+[![Descargar Wamp](https://img.shields.io/badge/-Descargar%20Wamp-red?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.wampserver.com/en/)
 
 * En el repositorio se encuentra una base de datos necesaria para el correcto funcionamiento de la app
 
