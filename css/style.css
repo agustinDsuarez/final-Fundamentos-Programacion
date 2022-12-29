@@ -1,0 +1,135 @@
+:root{
+    --clr-neutral-100: hsl(203, 5%, 31%);
+    --clr-neutral-200: hsl(204, 14%, 28%);
+    --clr-neutral-300: hsl(204, 6%, 17%);
+    
+    --clr-accent-100: hsl(199, 79%, 37%);
+    --clr-accent-200: hsl(199, 72%, 29%);
+    --clr-accent-300: hsl(199, 51%, 45%);
+
+    --clr-danger: hsl(356, 76%, 54%);
+    --clr-success: hsl(152, 69%, 31%);
+
+    --ff-h1: 'Raleway', sans-serif;
+    --ff-logo: 'Unbounded', cursive;
+
+    --ff-primary: var(--ff-h1);
+    --ff-secondary: var(--ff-logo);
+}
+
+
+/*estilos generales*/
+/*registro e inicio de sesión*/
+.comencemos{
+    color: var(--clr-neutral-100);
+}
+
+.comencemos h1{
+    color: var(--clr-neutral-300);
+    font-family: var(--ff-primary);
+    font-size: 55pt;
+}
+
+.comencemos a{
+    text-decoration: none;
+    color: black;
+}
+.comencemos a:hover{
+    text-decoration: underline;
+}
+.form{
+    width: 50%;
+}
+
+.form input,
+.boton{
+    border-radius: 4px;
+}
+
+.boton{
+    background-color: var(--clr-accent-100);
+    border: 1px solid var(--clr-accent-100);
+}
+
+.boton:hover{
+    background-color: var(--clr-accent-200);
+    border: 1px solid var(--clr-accent-200);
+}
+
+/*navegación*/
+.navbar-brand{
+    font-family: var(--ff-secondary);
+    font-size: 20pt;
+}
+.navegacion{
+    color: var(--clr-neutral-200);
+}
+
+.comencemos_boton,
+.nav-link{
+    color: var(--clr-neutral-300);
+}
+.nav-link:hover{
+    color: var(--clr-neutral-200);
+}
+.comencemos_boton:hover{
+    background-color: white;
+    text-decoration: underline;
+    color: var(--clr-neutral-200);
+}
+
+.cerrar_sesion{
+    color: var(--clr-danger);
+}
+
+.cerrar_sesion:hover{
+    color: white;
+    background-color: var(--clr-danger);
+}
+
+/*secciones*/
+.titulo{
+    color: var(--clr-neutral-300);
+    font-family: var(--ff-primary);
+    font-size: 35pt;
+}
+
+.parrafo{
+    color: var(--clr-neutral-200);
+}
+
+.marca{
+    font-family: var(--ff-logo);
+    color: var(--clr-neutral-300);
+}
+
+.intro{
+    max-width: 100%;
+    height: auto;
+}
+
+@media (min-width: 47em){
+    .intro{
+        max-width: 50%;
+        height: auto;
+    }
+}
+
+.inicio a,
+.como_usar a{
+    background-color: var(--clr-accent-300);
+    border: 1px solid var(--clr-accent-300);
+    border-radius: 4px;
+    font-size: 12pt;
+}
+
+.inicio a:hover{
+    background-color: var(--clr-accent-200);
+    border: 1px solid var(--clr-accent-200);
+    text-decoration: underline;
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--clr-accent-300);
+  }
+
