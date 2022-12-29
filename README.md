@@ -6,10 +6,10 @@ Universidad Provincial del Sudoeste (UPSO)
 ## 📚 ¿De qué se trata este proyecto?
 
 Es una aplicación diseñada para poder comprar entradas para el mundial Qatar 2022. Cuenta con un sistema de login/signup con el que el usuario puede crear una cuenta 
-y luego poder acceder a las entradas con dicha cuenta. Cuando el usuario compra una entrada, ésta transacción crea una registro que luego quien inicie sesión puede ver
+y luego poder acceder a las entradas. Cuando el usuario compra una entrada, ésta transacción crea una registro que luego quien inicie sesión puede ver
 en un apartado en su perfil. Todo esto (usuario, contraseña, tickets y compras) son almacenados en una base de datos.
 
-* El proyecto es un exámen final, se llevo a cabo en el lapso de al menos 16 horas. Se priorizó funcionalidad.
+* El proyecto es un exámen final, se llevó a cabo en menos de un día. Se priorizó funcionalidad.
 
 ## 🎨 Para este proyecto se utilizó
 
