@@ -25,7 +25,7 @@ Para poder correr este proyecto se necesita correr un servidor apache y MySQL co
 
 [![Descargar Wamp](https://img.shields.io/badge/-Descargar%20Wamp-purple?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.wampserver.com/en/)
 
-* En el repositorio se encuentra una base de datos necesaria para el correcto funcionamiento de la app
+* En el repositorio se encuentra una base de datos necesaria para el correcto funcionamiento de la app (final_fundamentos.sql)
 
 ***
 
